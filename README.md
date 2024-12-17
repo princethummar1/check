@@ -1,3 +1,3 @@
 # check
-a sample check repo
+a sample check repo.
 This is demo .
